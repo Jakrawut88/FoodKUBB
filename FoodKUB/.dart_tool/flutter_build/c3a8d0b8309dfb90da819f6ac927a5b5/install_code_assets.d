@@ -1,0 +1,1 @@
+ C:\\Users\\PC\\AndroidStudioProjects\\FoodKUB\\.dart_tool\\flutter_build\\c3a8d0b8309dfb90da819f6ac927a5b5\\native_assets.json: 

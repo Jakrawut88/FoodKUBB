@@ -1,0 +1,1 @@
+ C:\\Users\\PC\\AndroidStudioProjects\\FoodKUB\\.dart_tool\\flutter_build\\921e2a661c44f0f8dd032ccf9174b4c6\\dart_build_result.json: 

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "761207546032",
+    "project_id": "foodkub-fc407",
+    "storage_bucket": "foodkub-fc407.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761207546032:android:1fd7959c96b3fe2c1b5b75",
+        "android_client_info": {
+          "package_name": "com.example.foodkub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDhO15MYMKFvQ-n1NgnQRVzBR66C3shMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761207546032:android:012d023ea317c8ca1b5b75",
+        "android_client_info": {
+          "package_name": "com.mycompany.foodkub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDhO15MYMKFvQ-n1NgnQRVzBR66C3shMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
